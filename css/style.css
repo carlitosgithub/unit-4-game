@@ -1,0 +1,51 @@
+body {
+  background-image: url("../images/background_img2.jpg");
+  
+}
+h1 {
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+  color: red;
+  font-size: 46px;
+  
+}
+h4 {
+  color:grey;
+}
+
+p {
+  font-size: 24px;
+  text-align: center;
+  color: white;
+}
+#score-title{
+  font-size: 24px;
+  margin-left: 50px;
+  color:whitesmoke
+}
+#score-number{
+  font-size: 24px;
+  margin-left: 110px;
+  color:whitesmoke
+}
+#random-area {
+  font-size: 32px;
+  color: yellow;
+  text-align: center
+}
+
+.crystals-button {
+  display: inline;
+}
+
+.crystal-img {
+  width: 70px;
+  height: 70px;
+  cursor: pointer;
+  background-color: white;
+  border: solid;
+  border-color: lightblue;
+}
+
+
+
